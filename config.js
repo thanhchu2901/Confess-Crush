@@ -1,15 +1,13 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Happy birthday cực cứt biết đi",
+    introTitle: 'Nguyễn Thị Phương Linh',
+    introDesc: `Mừng ngày bạn được nặn ra đời tui chúc b sinh nhật vui vẻ :)
+    Mai thi tốt nha đồ dồ, thật vui khi được gặp lại b lần thứ two and đón sinh nhật cùng b ahihi`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
+    title: 'Mai bạn có rảnh hông đi chơi xuyên đêm xuyên sáng với mình nha 🥰',
+    desc: 'Gét gô đi k cần ăn k cần ngủ đi khi nào lạc đường khỏi về thì thôi ',
+    btnYes: 'Oke đi thôi hehehehe',
+    btnNo: 'Hum nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
