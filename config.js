@@ -1,20 +1,19 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Chúc mừng sinh nhật cục cứt biết đi :3",
+    introTitle: 'Nguyễn Thị Phương Linh nghe rõ trả lời :))',
+    introDesc: `Hello chúc mừng sinh nhật chúc bạn tuổi mới thi tốt nha :). 
+    Cảm ơn mẹ bạn đã nặn bạn ra đời and tui thiệt may mắn ghi gặp bạn đó ahihi. 
+    Thanks vì đã để tui gặp lại bạn lần 2 and làm những điều chúng ta còn chưa nàm `,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    title: 'Mai bạn rảnh hom đi chơi xuyên đếm xuyến sáng với tui nha 🥰',
+    desc: 'Đi đến khi lạc đường hết xăng mới về gét gô ',
+    btnYes: 'Oke chốt luôn hihi',
+    btnNo: 'Hum nha :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao tôi quý có mình bạn đó lạ ghê :3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'Đi chơi thì đi không đi chơi thì đi',
+    mess: 'Mình biết mà 🥰. Tôi quá hiểu bạn rồi 😘😘',
+    messDesc: 'Tối nay 5h, mình qua đón đi bốc đầu nha :)).',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
