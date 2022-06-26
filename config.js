@@ -15,6 +15,7 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Tôi quá hiểu bạn rồi 😘😘',
     messDesc: 'Tối nay 5h, mình qua đón đi bốc đầu nha :)).',
     btnAccept: 'Okiiiii lun <3',
+    
     messLink: 'https://i.pinimg.com/originals/07/2c/c0/072cc00dc835ad99c0ad924bb7dede73.jpg'
 }
 
