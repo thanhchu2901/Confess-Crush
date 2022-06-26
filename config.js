@@ -15,5 +15,4 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Tôi quá hiểu bạn rồi 😘😘',
     messDesc: 'Tối nay 5h, mình qua đón đi bốc đầu nha :)).',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://bizweb.dktcdn.net/thumb/grande/100/030/848/products/banh-dung-3d-cuc-shit-436-copy.jpg?v=1462248288207' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+    messLink: 'https://bizweb.dktcdn.net/thumb/grande/100/030/848/products/banh-dung-3d-cuc-shit-436-copy.jpg?v=1462248288207' 
