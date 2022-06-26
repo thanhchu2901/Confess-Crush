@@ -3,9 +3,9 @@ const CONFIG = {
     introTitle: 'Nguyễn Thị Phương Linh nghe rõ trả lời :))',
     introDesc: `Hello chúc mừng sinh nhật chúc bạn tuổi mới thi tốt nha :). 
     Cảm ơn mẹ bạn đã nặn bạn ra đời and tui thiệt may mắn ghi gặp bạn đó ahihi. 
-    Thanks vì đã để tui gặp lại bạn lần 2 and làm những điều chúng ta còn chưa nàm `,
+    Thanks vì đã để tui gặp lại bạn lần 2 and làm những điều chúng ta còn chưa kịp nàm hihi  `,
     btnIntro: '^^HiHi^^',
-    title: 'Mai bạn rảnh hom đi chơi xuyên đếm xuyến sáng với tui nha 🥰',
+    title: 'Mai bạn rảnh hom đi chơi xuyên đêm xuyến sáng với tui nha 🥰',
     desc: 'Đi đến khi lạc đường hết xăng mới về gét gô ',
     btnYes: 'Oke chốt luôn hihi',
     btnNo: 'Hum nha :3',
